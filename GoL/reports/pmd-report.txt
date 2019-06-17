@@ -1,0 +1,580 @@
+src/GameRule.java:2:	All classes, interfaces, enums and annotations must belong to a named package
+src/GameRule.java:2:	All classes, interfaces, enums and annotations must belong to a named package
+src/GameRule.java:2:	Header comments are required
+src/GameRule.java:2:	Header comments are required
+src/GameRule.java:3:	Field comments are required
+src/GameRule.java:3:	Field comments are required
+src/GameRule.java:3:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameRule.java:3:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameRule.java:4:	Field comments are required
+src/GameRule.java:4:	Field comments are required
+src/GameRule.java:5:	Field comments are required
+src/GameRule.java:5:	Field comments are required
+src/GameRule.java:7:	Public method and constructor comments are required
+src/GameRule.java:7:	Public method and constructor comments are required
+src/GameRule.java:11:	Parameter 'col' is not assigned and could be declared final
+src/GameRule.java:11:	Parameter 'col' is not assigned and could be declared final
+src/GameRule.java:11:	Parameter 'row' is not assigned and could be declared final
+src/GameRule.java:11:	Parameter 'row' is not assigned and could be declared final
+src/GameRule.java:11:	Public method and constructor comments are required
+src/GameRule.java:11:	Public method and constructor comments are required
+src/GameRule.java:22:	Public method and constructor comments are required
+src/GameRule.java:22:	Public method and constructor comments are required
+src/GameRule.java:24:	Use one line for each declaration, it enhances code readability.
+src/GameRule.java:24:	Use one line for each declaration, it enhances code readability.
+src/GameRule.java:28:	Avoid variables with short names like i
+src/GameRule.java:28:	Avoid variables with short names like i
+src/GameRule.java:28:	Avoid variables with short names like k
+src/GameRule.java:28:	Avoid variables with short names like k
+src/GameRule.java:28:	Use one line for each declaration, it enhances code readability.
+src/GameRule.java:28:	Use one line for each declaration, it enhances code readability.
+src/GameRule.java:33:	A switch statement does not contain a break
+src/GameRule.java:33:	A switch statement does not contain a break
+src/GameRule.java:54:	Avoid variables with short names like i
+src/GameRule.java:54:	Avoid variables with short names like i
+src/GameRule.java:54:	Avoid variables with short names like k
+src/GameRule.java:54:	Avoid variables with short names like k
+src/GameRule.java:54:	Parameter 'i' is not assigned and could be declared final
+src/GameRule.java:54:	Parameter 'i' is not assigned and could be declared final
+src/GameRule.java:54:	Parameter 'k' is not assigned and could be declared final
+src/GameRule.java:54:	Parameter 'k' is not assigned and could be declared final
+src/GameRule.java:54:	Public method and constructor comments are required
+src/GameRule.java:54:	Public method and constructor comments are required
+src/GameRule.java:55:	Avoid variables with short names like c
+src/GameRule.java:55:	Avoid variables with short names like c
+src/GameRule.java:55:	Avoid variables with short names like r
+src/GameRule.java:55:	Avoid variables with short names like r
+src/GameRule.java:55:	Found 'DD'-anomaly for variable 'c' (lines '55'-'57').
+src/GameRule.java:55:	Found 'DD'-anomaly for variable 'c' (lines '55'-'57').
+src/GameRule.java:55:	Found 'DD'-anomaly for variable 'count' (lines '55'-'59').
+src/GameRule.java:55:	Found 'DD'-anomaly for variable 'count' (lines '55'-'59').
+src/GameRule.java:55:	Found 'DD'-anomaly for variable 'count' (lines '55'-'63').
+src/GameRule.java:55:	Found 'DD'-anomaly for variable 'count' (lines '55'-'63').
+src/GameRule.java:55:	Found 'DD'-anomaly for variable 'r' (lines '55'-'56').
+src/GameRule.java:55:	Found 'DD'-anomaly for variable 'r' (lines '55'-'56').
+src/GameRule.java:55:	Found 'DU'-anomaly for variable 'c' (lines '55'-'66').
+src/GameRule.java:55:	Found 'DU'-anomaly for variable 'c' (lines '55'-'66').
+src/GameRule.java:55:	Use one line for each declaration, it enhances code readability.
+src/GameRule.java:55:	Use one line for each declaration, it enhances code readability.
+src/GameRule.java:58:	Avoid using Literals in Conditional Statements
+src/GameRule.java:58:	Avoid using Literals in Conditional Statements
+src/GameRule.java:58:	Avoid using if statements without curly braces
+src/GameRule.java:58:	Avoid using if statements without curly braces
+src/GameRule.java:59:	Found 'DD'-anomaly for variable 'count' (lines '59'-'59').
+src/GameRule.java:59:	Found 'DD'-anomaly for variable 'count' (lines '59'-'59').
+src/GameRule.java:59:	Found 'DD'-anomaly for variable 'count' (lines '59'-'63').
+src/GameRule.java:59:	Found 'DD'-anomaly for variable 'count' (lines '59'-'63').
+src/GameRule.java:59:	This statement should have braces
+src/GameRule.java:59:	This statement should have braces
+src/GameRule.java:62:	Avoid using Literals in Conditional Statements
+src/GameRule.java:62:	Avoid using Literals in Conditional Statements
+src/GameRule.java:62:	Avoid using if statements without curly braces
+src/GameRule.java:62:	Avoid using if statements without curly braces
+src/GameRule.java:63:	This statement should have braces
+src/GameRule.java:63:	This statement should have braces
+src/GameRule.java:67:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/GameRule.java:67:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/GameRule.java:67:	Parameter 'current' is not assigned and could be declared final
+src/GameRule.java:67:	Parameter 'current' is not assigned and could be declared final
+src/GameRule.java:67:	The user-supplied array 'current' is stored directly.
+src/GameRule.java:67:	The user-supplied array 'current' is stored directly.
+src/GameRule.java:70:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/GameRule.java:70:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/GameRule.java:70:	Parameter 'next' is not assigned and could be declared final
+src/GameRule.java:70:	Parameter 'next' is not assigned and could be declared final
+src/GameRule.java:70:	The user-supplied array 'next' is stored directly.
+src/GameRule.java:70:	The user-supplied array 'next' is stored directly.
+src/GameRule.java:74:	Returning 'current' may expose an internal array.
+src/GameRule.java:74:	Returning 'current' may expose an internal array.
+src/GameRule.java:78:	Returning 'next' may expose an internal array.
+src/GameRule.java:78:	Returning 'next' may expose an internal array.
+src/GameRule.java:80:	Parameter 'col' is not assigned and could be declared final
+src/GameRule.java:80:	Parameter 'col' is not assigned and could be declared final
+src/GameRule.java:80:	Parameter 'row' is not assigned and could be declared final
+src/GameRule.java:80:	Parameter 'row' is not assigned and could be declared final
+src/GameRule.java:80:	Public method and constructor comments are required
+src/GameRule.java:80:	Public method and constructor comments are required
+src/GameRule.java:83:	Avoid variables with short names like tu
+src/GameRule.java:83:	Avoid variables with short names like tu
+src/GameRule.java:83:	Parameter 'col' is not assigned and could be declared final
+src/GameRule.java:83:	Parameter 'col' is not assigned and could be declared final
+src/GameRule.java:83:	Parameter 'row' is not assigned and could be declared final
+src/GameRule.java:83:	Parameter 'row' is not assigned and could be declared final
+src/GameRule.java:83:	Parameter 'tu' is not assigned and could be declared final
+src/GameRule.java:83:	Parameter 'tu' is not assigned and could be declared final
+src/GameRule.java:83:	Public method and constructor comments are required
+src/GameRule.java:83:	Public method and constructor comments are required
+src/GameRule.java:88:	Avoid variables with short names like tu
+src/GameRule.java:88:	Avoid variables with short names like tu
+src/GameRule.java:88:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/GameRule.java:88:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/GameRule.java:88:	Parameter 'tu' is not assigned and could be declared final
+src/GameRule.java:88:	Parameter 'tu' is not assigned and could be declared final
+src/GameRule.java:88:	Public method and constructor comments are required
+src/GameRule.java:88:	Public method and constructor comments are required
+src/GameRuleTest.java:7:	All classes, interfaces, enums and annotations must belong to a named package
+src/GameRuleTest.java:7:	All classes, interfaces, enums and annotations must belong to a named package
+src/GameRuleTest.java:7:	Each class should declare at least one constructor
+src/GameRuleTest.java:7:	Each class should declare at least one constructor
+src/GameRuleTest.java:7:	Header comments are required
+src/GameRuleTest.java:7:	Header comments are required
+src/GameRuleTest.java:8:	Field comments are required
+src/GameRuleTest.java:8:	Field comments are required
+src/GameRuleTest.java:9:	Use explicit scoping instead of the default package private level
+src/GameRuleTest.java:9:	Use explicit scoping instead of the default package private level
+src/GameRuleTest.java:10:	A method/constructor should not explicitly throw java.lang.Exception
+src/GameRuleTest.java:10:	A method/constructor should not explicitly throw java.lang.Exception
+src/GameRuleTest.java:10:	Document empty method body
+src/GameRuleTest.java:10:	Document empty method body
+src/GameRuleTest.java:10:	To avoid mistakes add a comment at the beginning of the setUpBeforeClass method if you want a default access modifier
+src/GameRuleTest.java:10:	To avoid mistakes add a comment at the beginning of the setUpBeforeClass method if you want a default access modifier
+src/GameRuleTest.java:13:	Use explicit scoping instead of the default package private level
+src/GameRuleTest.java:13:	Use explicit scoping instead of the default package private level
+src/GameRuleTest.java:14:	A method/constructor should not explicitly throw java.lang.Exception
+src/GameRuleTest.java:14:	A method/constructor should not explicitly throw java.lang.Exception
+src/GameRuleTest.java:14:	Document empty method body
+src/GameRuleTest.java:14:	Document empty method body
+src/GameRuleTest.java:14:	To avoid mistakes add a comment at the beginning of the tearDownAfterClass method if you want a default access modifier
+src/GameRuleTest.java:14:	To avoid mistakes add a comment at the beginning of the tearDownAfterClass method if you want a default access modifier
+src/GameRuleTest.java:17:	Use explicit scoping instead of the default package private level
+src/GameRuleTest.java:17:	Use explicit scoping instead of the default package private level
+src/GameRuleTest.java:18:	To avoid mistakes add a comment at the beginning of the testGenerate method if you want a default access modifier
+src/GameRuleTest.java:18:	To avoid mistakes add a comment at the beginning of the testGenerate method if you want a default access modifier
+src/GameRuleTest.java:20:	Found 'DD'-anomaly for variable 'test' (lines '20'-'24').
+src/GameRuleTest.java:20:	Found 'DD'-anomaly for variable 'test' (lines '20'-'24').
+src/GameRuleTest.java:20:	Found 'DD'-anomaly for variable 'test' (lines '20'-'27').
+src/GameRuleTest.java:20:	Found 'DD'-anomaly for variable 'test' (lines '20'-'27').
+src/GameRuleTest.java:21:	Avoid variables with short names like re
+src/GameRuleTest.java:21:	Avoid variables with short names like re
+src/GameRuleTest.java:21:	Found 'DD'-anomaly for variable 're' (lines '21'-'25').
+src/GameRuleTest.java:21:	Found 'DD'-anomaly for variable 're' (lines '21'-'25').
+src/GameRuleTest.java:21:	Found 'DD'-anomaly for variable 're' (lines '21'-'36').
+src/GameRuleTest.java:21:	Found 'DD'-anomaly for variable 're' (lines '21'-'36').
+src/GameRuleTest.java:22:	Avoid using for statements without curly braces
+src/GameRuleTest.java:22:	Avoid using for statements without curly braces
+src/GameRuleTest.java:22:	This statement should have braces
+src/GameRuleTest.java:22:	This statement should have braces
+src/GameRuleTest.java:24:	Found 'DD'-anomaly for variable 'test' (lines '24'-'24').
+src/GameRuleTest.java:24:	Found 'DD'-anomaly for variable 'test' (lines '24'-'24').
+src/GameRuleTest.java:24:	Found 'DD'-anomaly for variable 'test' (lines '24'-'27').
+src/GameRuleTest.java:24:	Found 'DD'-anomaly for variable 'test' (lines '24'-'27').
+src/GameRuleTest.java:25:	Found 'DD'-anomaly for variable 're' (lines '25'-'25').
+src/GameRuleTest.java:25:	Found 'DD'-anomaly for variable 're' (lines '25'-'25').
+src/GameRuleTest.java:25:	Found 'DD'-anomaly for variable 're' (lines '25'-'36').
+src/GameRuleTest.java:25:	Found 'DD'-anomaly for variable 're' (lines '25'-'36').
+src/GameRuleTest.java:27:	Found 'DD'-anomaly for variable 'test' (lines '27'-'28').
+src/GameRuleTest.java:27:	Found 'DD'-anomaly for variable 'test' (lines '27'-'28').
+src/GameRuleTest.java:28:	Found 'DD'-anomaly for variable 'test' (lines '28'-'29').
+src/GameRuleTest.java:28:	Found 'DD'-anomaly for variable 'test' (lines '28'-'29').
+src/GameRuleTest.java:29:	Found 'DD'-anomaly for variable 'test' (lines '29'-'30').
+src/GameRuleTest.java:29:	Found 'DD'-anomaly for variable 'test' (lines '29'-'30').
+src/GameRuleTest.java:30:	Found 'DD'-anomaly for variable 'test' (lines '30'-'31').
+src/GameRuleTest.java:30:	Found 'DD'-anomaly for variable 'test' (lines '30'-'31').
+src/GameRuleTest.java:36:	Found 'DD'-anomaly for variable 're' (lines '36'-'37').
+src/GameRuleTest.java:36:	Found 'DD'-anomaly for variable 're' (lines '36'-'37').
+src/GameRuleTest.java:37:	Found 'DD'-anomaly for variable 're' (lines '37'-'38').
+src/GameRuleTest.java:37:	Found 'DD'-anomaly for variable 're' (lines '37'-'38').
+src/GameRuleTest.java:38:	Found 'DD'-anomaly for variable 're' (lines '38'-'39').
+src/GameRuleTest.java:38:	Found 'DD'-anomaly for variable 're' (lines '38'-'39').
+src/GameRuleTest.java:39:	Found 'DU'-anomaly for variable 're' (lines '39'-'49').
+src/GameRuleTest.java:39:	Found 'DU'-anomaly for variable 're' (lines '39'-'49').
+src/GameRuleTest.java:45:	JUnit assertions should include a message
+src/GameRuleTest.java:45:	JUnit assertions should include a message
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/GameRuleTest.java:51:	Use explicit scoping instead of the default package private level
+src/GameRuleTest.java:51:	Use explicit scoping instead of the default package private level
+src/GameRuleTest.java:52:	To avoid mistakes add a comment at the beginning of the testCellCount method if you want a default access modifier
+src/GameRuleTest.java:52:	To avoid mistakes add a comment at the beginning of the testCellCount method if you want a default access modifier
+src/GameRuleTest.java:53:	Found 'DD'-anomaly for variable 'test' (lines '53'-'58').
+src/GameRuleTest.java:53:	Found 'DD'-anomaly for variable 'test' (lines '53'-'58').
+src/GameRuleTest.java:53:	Found 'DD'-anomaly for variable 'test' (lines '53'-'60').
+src/GameRuleTest.java:53:	Found 'DD'-anomaly for variable 'test' (lines '53'-'60').
+src/GameRuleTest.java:54:	Avoid variables with short names like re
+src/GameRuleTest.java:54:	Avoid variables with short names like re
+src/GameRuleTest.java:56:	Avoid using for statements without curly braces
+src/GameRuleTest.java:56:	Avoid using for statements without curly braces
+src/GameRuleTest.java:56:	This statement should have braces
+src/GameRuleTest.java:56:	This statement should have braces
+src/GameRuleTest.java:57:	Avoid using for statements without curly braces
+src/GameRuleTest.java:57:	Avoid using for statements without curly braces
+src/GameRuleTest.java:57:	This statement should have braces
+src/GameRuleTest.java:57:	This statement should have braces
+src/GameRuleTest.java:58:	Found 'DD'-anomaly for variable 'test' (lines '58'-'58').
+src/GameRuleTest.java:58:	Found 'DD'-anomaly for variable 'test' (lines '58'-'58').
+src/GameRuleTest.java:58:	Found 'DD'-anomaly for variable 'test' (lines '58'-'60').
+src/GameRuleTest.java:58:	Found 'DD'-anomaly for variable 'test' (lines '58'-'60').
+src/GameRuleTest.java:60:	Found 'DD'-anomaly for variable 'test' (lines '60'-'61').
+src/GameRuleTest.java:60:	Found 'DD'-anomaly for variable 'test' (lines '60'-'61').
+src/GameRuleTest.java:61:	Found 'DD'-anomaly for variable 'test' (lines '61'-'62').
+src/GameRuleTest.java:61:	Found 'DD'-anomaly for variable 'test' (lines '61'-'62').
+src/GameRuleTest.java:62:	Found 'DD'-anomaly for variable 'test' (lines '62'-'63').
+src/GameRuleTest.java:62:	Found 'DD'-anomaly for variable 'test' (lines '62'-'63').
+src/GameRuleTest.java:63:	Found 'DD'-anomaly for variable 'test' (lines '63'-'64').
+src/GameRuleTest.java:63:	Found 'DD'-anomaly for variable 'test' (lines '63'-'64').
+src/GameRuleTest.java:67:	JUnit assertions should include a message
+src/GameRuleTest.java:67:	JUnit assertions should include a message
+src/GameUI.java:3:	Avoid unused imports such as 'java.awt.FlowLayout'
+src/GameUI.java:3:	Avoid unused imports such as 'java.awt.FlowLayout'
+src/GameUI.java:9:	Avoid unused imports such as 'javax.swing.JComboBox'
+src/GameUI.java:9:	Avoid unused imports such as 'javax.swing.JComboBox'
+src/GameUI.java:11:	Avoid unused imports such as 'javax.swing.JLabel'
+src/GameUI.java:11:	Avoid unused imports such as 'javax.swing.JLabel'
+src/GameUI.java:15:	All classes, interfaces, enums and annotations must belong to a named package
+src/GameUI.java:15:	All classes, interfaces, enums and annotations must belong to a named package
+src/GameUI.java:15:	Classes implementing Serializable should set a serialVersionUID
+src/GameUI.java:15:	Classes implementing Serializable should set a serialVersionUID
+src/GameUI.java:15:	Header comments are required
+src/GameUI.java:15:	Header comments are required
+src/GameUI.java:15:	The class 'GameUI' has a Modified Cyclomatic Complexity of 7 (Highest = 16).
+src/GameUI.java:15:	The class 'GameUI' has a Modified Cyclomatic Complexity of 7 (Highest = 16).
+src/GameUI.java:15:	The class 'GameUI' has a Standard Cyclomatic Complexity of 7 (Highest = 16).
+src/GameUI.java:15:	The class 'GameUI' has a Standard Cyclomatic Complexity of 7 (Highest = 16).
+src/GameUI.java:16:	Avoid unnecessary constructors - the compiler will generate these for you
+src/GameUI.java:16:	Avoid unnecessary constructors - the compiler will generate these for you
+src/GameUI.java:16:	Document empty constructor
+src/GameUI.java:16:	Document empty constructor
+src/GameUI.java:16:	It is a good practice to call super() in a constructor
+src/GameUI.java:16:	It is a good practice to call super() in a constructor
+src/GameUI.java:16:	Public method and constructor comments are required
+src/GameUI.java:16:	Public method and constructor comments are required
+src/GameUI.java:18:	Avoid unused private fields such as 'frame'.
+src/GameUI.java:18:	Avoid unused private fields such as 'frame'.
+src/GameUI.java:18:	Field comments are required
+src/GameUI.java:18:	Field comments are required
+src/GameUI.java:18:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:18:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:19:	Field comments are required
+src/GameUI.java:19:	Field comments are required
+src/GameUI.java:19:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:19:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:19:	Perhaps 'backPanel' could be replaced by a local variable.
+src/GameUI.java:19:	Perhaps 'backPanel' could be replaced by a local variable.
+src/GameUI.java:19:	Perhaps 'buttonPanel' could be replaced by a local variable.
+src/GameUI.java:19:	Perhaps 'buttonPanel' could be replaced by a local variable.
+src/GameUI.java:19:	Perhaps 'centerPanel' could be replaced by a local variable.
+src/GameUI.java:19:	Perhaps 'centerPanel' could be replaced by a local variable.
+src/GameUI.java:19:	Use one line for each declaration, it enhances code readability.
+src/GameUI.java:19:	Use one line for each declaration, it enhances code readability.
+src/GameUI.java:20:	Field comments are required
+src/GameUI.java:20:	Field comments are required
+src/GameUI.java:20:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:20:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:20:	Use one line for each declaration, it enhances code readability.
+src/GameUI.java:20:	Use one line for each declaration, it enhances code readability.
+src/GameUI.java:21:	Field comments are required
+src/GameUI.java:21:	Field comments are required
+src/GameUI.java:21:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:21:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:22:	Field comments are required
+src/GameUI.java:22:	Field comments are required
+src/GameUI.java:22:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:22:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:22:	Use one line for each declaration, it enhances code readability.
+src/GameUI.java:22:	Use one line for each declaration, it enhances code readability.
+src/GameUI.java:23:	Field comments are required
+src/GameUI.java:23:	Field comments are required
+src/GameUI.java:23:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:23:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:24:	Field comments are required
+src/GameUI.java:24:	Field comments are required
+src/GameUI.java:24:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:24:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:25:	Field comments are required
+src/GameUI.java:25:	Field comments are required
+src/GameUI.java:25:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:25:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:26:	Field comments are required
+src/GameUI.java:26:	Field comments are required
+src/GameUI.java:26:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:26:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:26:	To be compliant to J2EE, a webapp should not use any thread.
+src/GameUI.java:26:	To be compliant to J2EE, a webapp should not use any thread.
+src/GameUI.java:27:	Field comments are required
+src/GameUI.java:27:	Field comments are required
+src/GameUI.java:27:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:27:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/GameUI.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/GameUI.java:30:	Public method and constructor comments are required
+src/GameUI.java:30:	Public method and constructor comments are required
+src/GameUI.java:51:	Avoid using for statements without curly braces
+src/GameUI.java:51:	Avoid using for statements without curly braces
+src/GameUI.java:51:	This statement should have braces
+src/GameUI.java:51:	This statement should have braces
+src/GameUI.java:53:	Avoid instantiating new objects inside loops
+src/GameUI.java:53:	Avoid instantiating new objects inside loops
+src/GameUI.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:73:	Avoid using for statements without curly braces
+src/GameUI.java:73:	Avoid using for statements without curly braces
+src/GameUI.java:73:	This statement should have braces
+src/GameUI.java:73:	This statement should have braces
+src/GameUI.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:79:	Avoid variables with short names like e
+src/GameUI.java:79:	Avoid variables with short names like e
+src/GameUI.java:79:	Parameter 'e' is not assigned and could be declared final
+src/GameUI.java:79:	Parameter 'e' is not assigned and could be declared final
+src/GameUI.java:79:	Public method and constructor comments are required
+src/GameUI.java:79:	Public method and constructor comments are required
+src/GameUI.java:79:	The method 'actionPerformed' has a Modified Cyclomatic Complexity of 16.
+src/GameUI.java:79:	The method 'actionPerformed' has a Modified Cyclomatic Complexity of 16.
+src/GameUI.java:79:	The method 'actionPerformed' has a Standard Cyclomatic Complexity of 16.
+src/GameUI.java:79:	The method 'actionPerformed' has a Standard Cyclomatic Complexity of 16.
+src/GameUI.java:79:	The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/GameUI.java:79:	The method 'actionPerformed(ActionEvent)' is missing an @Override annotation.
+src/GameUI.java:84:	To be compliant to J2EE, a webapp should not use any thread.
+src/GameUI.java:84:	To be compliant to J2EE, a webapp should not use any thread.
+src/GameUI.java:84:	To be compliant to J2EE, a webapp should not use any thread.
+src/GameUI.java:84:	To be compliant to J2EE, a webapp should not use any thread.
+src/GameUI.java:87:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:87:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:88:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:88:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:92:	Avoid printStackTrace(); use a logger call instead.
+src/GameUI.java:92:	Avoid printStackTrace(); use a logger call instead.
+src/GameUI.java:95:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:95:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:97:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:97:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:98:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:98:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:99:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:99:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:100:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:100:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:104:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:104:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:108:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:108:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:110:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:110:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:111:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/GameUI.java:111:	Assigning an Object to null is a code smell.  Consider refactoring.
+src/GameUI.java:111:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:111:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/GameUI.java:119:	System.exit() should not be used in J2EE/JEE apps
+src/GameUI.java:119:	System.exit() should not be used in J2EE/JEE apps
+src/GameUI.java:130:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:130:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:130:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:130:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:130:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:130:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:133:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:133:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:133:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:133:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:133:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:133:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:148:	Avoid using for statements without curly braces
+src/GameUI.java:148:	Avoid using for statements without curly braces
+src/GameUI.java:148:	This statement should have braces
+src/GameUI.java:148:	This statement should have braces
+src/GameUI.java:150:	Avoid using Literals in Conditional Statements
+src/GameUI.java:150:	Avoid using Literals in Conditional Statements
+src/GameUI.java:150:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:150:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:150:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:150:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:151:	Avoid using if...else statements without curly braces
+src/GameUI.java:151:	Avoid using if...else statements without curly braces
+src/GameUI.java:151:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:151:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:151:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:151:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:151:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:151:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:151:	This statement should have braces
+src/GameUI.java:151:	This statement should have braces
+src/GameUI.java:153:	Avoid using if...else statements without curly braces
+src/GameUI.java:153:	Avoid using if...else statements without curly braces
+src/GameUI.java:153:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:153:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:153:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:153:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:153:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:153:	Potential violation of Law of Demeter (method chain calls)
+src/GameUI.java:153:	This statement should have braces
+src/GameUI.java:153:	This statement should have braces
+src/GameUITest.java:7:	All classes, interfaces, enums and annotations must belong to a named package
+src/GameUITest.java:7:	All classes, interfaces, enums and annotations must belong to a named package
+src/GameUITest.java:7:	Each class should declare at least one constructor
+src/GameUITest.java:7:	Each class should declare at least one constructor
+src/GameUITest.java:7:	Header comments are required
+src/GameUITest.java:7:	Header comments are required
+src/GameUITest.java:9:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:9:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:10:	A method/constructor should not explicitly throw java.lang.Exception
+src/GameUITest.java:10:	A method/constructor should not explicitly throw java.lang.Exception
+src/GameUITest.java:10:	Document empty method body
+src/GameUITest.java:10:	Document empty method body
+src/GameUITest.java:10:	To avoid mistakes add a comment at the beginning of the setUpBeforeClass method if you want a default access modifier
+src/GameUITest.java:10:	To avoid mistakes add a comment at the beginning of the setUpBeforeClass method if you want a default access modifier
+src/GameUITest.java:13:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:13:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:14:	A method/constructor should not explicitly throw java.lang.Exception
+src/GameUITest.java:14:	A method/constructor should not explicitly throw java.lang.Exception
+src/GameUITest.java:14:	Document empty method body
+src/GameUITest.java:14:	Document empty method body
+src/GameUITest.java:14:	To avoid mistakes add a comment at the beginning of the tearDownAfterClass method if you want a default access modifier
+src/GameUITest.java:14:	To avoid mistakes add a comment at the beginning of the tearDownAfterClass method if you want a default access modifier
+src/GameUITest.java:17:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:17:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:18:	To avoid mistakes add a comment at the beginning of the testGameUI method if you want a default access modifier
+src/GameUITest.java:18:	To avoid mistakes add a comment at the beginning of the testGameUI method if you want a default access modifier
+src/GameUITest.java:22:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:22:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:23:	To avoid mistakes add a comment at the beginning of the testInit method if you want a default access modifier
+src/GameUITest.java:23:	To avoid mistakes add a comment at the beginning of the testInit method if you want a default access modifier
+src/GameUITest.java:27:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:27:	Use explicit scoping instead of the default package private level
+src/GameUITest.java:28:	To avoid mistakes add a comment at the beginning of the testActionPerformed method if you want a default access modifier
+src/GameUITest.java:28:	To avoid mistakes add a comment at the beginning of the testActionPerformed method if you want a default access modifier
+src/Main.java:2:	All classes, interfaces, enums and annotations must belong to a named package
+src/Main.java:2:	All classes, interfaces, enums and annotations must belong to a named package
+src/Main.java:2:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/Main.java:2:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/Main.java:2:	Avoid short class names like Main
+src/Main.java:2:	Avoid short class names like Main
+src/Main.java:2:	Header comments are required
+src/Main.java:2:	Header comments are required
+src/Main.java:3:	Field comments are required
+src/Main.java:3:	Field comments are required
+src/Main.java:4:	Parameter 'args' is not assigned and could be declared final
+src/Main.java:4:	Parameter 'args' is not assigned and could be declared final
+src/Main.java:4:	Public method and constructor comments are required
+src/Main.java:4:	Public method and constructor comments are required
+src/MainTest.java:7:	All classes, interfaces, enums and annotations must belong to a named package
+src/MainTest.java:7:	All classes, interfaces, enums and annotations must belong to a named package
+src/MainTest.java:7:	Each class should declare at least one constructor
+src/MainTest.java:7:	Each class should declare at least one constructor
+src/MainTest.java:7:	Header comments are required
+src/MainTest.java:7:	Header comments are required
+src/MainTest.java:9:	Use explicit scoping instead of the default package private level
+src/MainTest.java:9:	Use explicit scoping instead of the default package private level
+src/MainTest.java:10:	A method/constructor should not explicitly throw java.lang.Exception
+src/MainTest.java:10:	A method/constructor should not explicitly throw java.lang.Exception
+src/MainTest.java:10:	Document empty method body
+src/MainTest.java:10:	Document empty method body
+src/MainTest.java:10:	To avoid mistakes add a comment at the beginning of the setUpBeforeClass method if you want a default access modifier
+src/MainTest.java:10:	To avoid mistakes add a comment at the beginning of the setUpBeforeClass method if you want a default access modifier
+src/MainTest.java:13:	Use explicit scoping instead of the default package private level
+src/MainTest.java:13:	Use explicit scoping instead of the default package private level
+src/MainTest.java:14:	A method/constructor should not explicitly throw java.lang.Exception
+src/MainTest.java:14:	A method/constructor should not explicitly throw java.lang.Exception
+src/MainTest.java:14:	Document empty method body
+src/MainTest.java:14:	Document empty method body
+src/MainTest.java:14:	To avoid mistakes add a comment at the beginning of the tearDownAfterClass method if you want a default access modifier
+src/MainTest.java:14:	To avoid mistakes add a comment at the beginning of the tearDownAfterClass method if you want a default access modifier
+src/MainTest.java:17:	Use explicit scoping instead of the default package private level
+src/MainTest.java:17:	Use explicit scoping instead of the default package private level
+src/MainTest.java:18:	To avoid mistakes add a comment at the beginning of the test method if you want a default access modifier
+src/MainTest.java:18:	To avoid mistakes add a comment at the beginning of the test method if you want a default access modifier
+src/Map.java:2:	All classes, interfaces, enums and annotations must belong to a named package
+src/Map.java:2:	All classes, interfaces, enums and annotations must belong to a named package
+src/Map.java:2:	Avoid short class names like Map
+src/Map.java:2:	Avoid short class names like Map
+src/Map.java:2:	Header comments are required
+src/Map.java:2:	Header comments are required
+src/Map.java:2:	The class 'Map' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=7)
+src/Map.java:2:	The class 'Map' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=7)
+src/Map.java:3:	Field comments are required
+src/Map.java:3:	Field comments are required
+src/Map.java:4:	Field comments are required
+src/Map.java:4:	Field comments are required
+src/Map.java:5:	Field comments are required
+src/Map.java:5:	Field comments are required
+src/Map.java:8:	Parameter 'col' is not assigned and could be declared final
+src/Map.java:8:	Parameter 'col' is not assigned and could be declared final
+src/Map.java:8:	Parameter 'row' is not assigned and could be declared final
+src/Map.java:8:	Parameter 'row' is not assigned and could be declared final
+src/Map.java:8:	Public method and constructor comments are required
+src/Map.java:8:	Public method and constructor comments are required
+src/Map.java:14:	Returning 'gameMap' may expose an internal array.
+src/Map.java:14:	Returning 'gameMap' may expose an internal array.
+src/Map.java:16:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Map.java:16:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/Map.java:16:	Parameter 'map' is not assigned and could be declared final
+src/Map.java:16:	Parameter 'map' is not assigned and could be declared final
+src/Map.java:16:	The user-supplied array 'map' is stored directly.
+src/Map.java:16:	The user-supplied array 'map' is stored directly.
+src/Map.java:31:	Parameter 'row' is not assigned and could be declared final
+src/Map.java:31:	Parameter 'row' is not assigned and could be declared final
+src/Map.java:35:	Parameter 'col' is not assigned and could be declared final
+src/Map.java:35:	Parameter 'col' is not assigned and could be declared final
+src/MapTest.java:7:	All classes, interfaces, enums and annotations must belong to a named package
+src/MapTest.java:7:	All classes, interfaces, enums and annotations must belong to a named package
+src/MapTest.java:7:	Each class should declare at least one constructor
+src/MapTest.java:7:	Each class should declare at least one constructor
+src/MapTest.java:7:	Header comments are required
+src/MapTest.java:7:	Header comments are required
+src/MapTest.java:9:	Use explicit scoping instead of the default package private level
+src/MapTest.java:9:	Use explicit scoping instead of the default package private level
+src/MapTest.java:10:	A method/constructor should not explicitly throw java.lang.Exception
+src/MapTest.java:10:	A method/constructor should not explicitly throw java.lang.Exception
+src/MapTest.java:10:	Document empty method body
+src/MapTest.java:10:	Document empty method body
+src/MapTest.java:10:	To avoid mistakes add a comment at the beginning of the setUpBeforeClass method if you want a default access modifier
+src/MapTest.java:10:	To avoid mistakes add a comment at the beginning of the setUpBeforeClass method if you want a default access modifier
+src/MapTest.java:13:	Use explicit scoping instead of the default package private level
+src/MapTest.java:13:	Use explicit scoping instead of the default package private level
+src/MapTest.java:14:	A method/constructor should not explicitly throw java.lang.Exception
+src/MapTest.java:14:	A method/constructor should not explicitly throw java.lang.Exception
+src/MapTest.java:14:	Document empty method body
+src/MapTest.java:14:	Document empty method body
+src/MapTest.java:14:	To avoid mistakes add a comment at the beginning of the tearDownAfterClass method if you want a default access modifier
+src/MapTest.java:14:	To avoid mistakes add a comment at the beginning of the tearDownAfterClass method if you want a default access modifier
+src/MapTest.java:17:	Use explicit scoping instead of the default package private level
+src/MapTest.java:17:	Use explicit scoping instead of the default package private level
+src/MapTest.java:18:	To avoid mistakes add a comment at the beginning of the testInit method if you want a default access modifier
+src/MapTest.java:18:	To avoid mistakes add a comment at the beginning of the testInit method if you want a default access modifier
